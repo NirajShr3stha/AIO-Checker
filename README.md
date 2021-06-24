@@ -1,2 +1,3 @@
-# Firstly, I made this aio and some one else took my skidded and re-named it. Heres my aio as i dont use it anymore  
+# - ALL IN ONE CHECKER 
 ## Free to do whatever just drop a star !!
+### If there is any issues just fix it with nuget manager 
